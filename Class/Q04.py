@@ -7,9 +7,9 @@ x=[1,2,10,4,5,6,7,8,9,10]
 sum=sum(x[-4:])
 print(sum)
 
-# del x[1]
-# del x[4]
-# print(x)
+del x[1]
+del x[4]
+print(x)
 
 print(max(x)-min(x))
 
