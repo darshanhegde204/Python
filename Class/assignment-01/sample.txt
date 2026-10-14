@@ -1,0 +1,1 @@
+Hello world! Python file reading and string manipulation is a lot of fun. Hello world!
